@@ -1,6 +1,6 @@
 # sql-challenge
 
-#### For Data Analysis Bootcamp at Tecnologico de Monterrey Campus Monterrey.
+#### For Tecnologico de Monterrey Campus Monterrey Data Analytics Boot Camp.
 
 Research project on employees of a corporation from the 1980s and 1990s. The database of employees from that period are six CSV files.
 
